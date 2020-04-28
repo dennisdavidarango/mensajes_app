@@ -1,2 +1,6 @@
 com\platzi\mensajes_app\Conexion.class
+com\platzi\mensajes_app\mensajesService.class
 com\platzi\mensajes_app\Inicio.class
+com\platzi\mensajes_app\Mensajes.class
+com\platzi\mensajes_app\MensajesDAO.class
+.netbeans_automatic_build
